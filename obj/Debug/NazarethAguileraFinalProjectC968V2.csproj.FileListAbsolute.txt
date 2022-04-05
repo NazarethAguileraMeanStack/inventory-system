@@ -1,0 +1,14 @@
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\bin\Debug\NazarethAguileraFinalProjectC968.exe.config
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\bin\Debug\NazarethAguileraFinalProjectC968.exe
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\bin\Debug\NazarethAguileraFinalProjectC968.pdb
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\obj\Debug\NazarethAguileraFinalProjectC968V2.csprojAssemblyReference.cache
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\obj\Debug\NazarethAguileraFinalProjectC968.Add_Part.resources
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\obj\Debug\NazarethAguileraFinalProjectC968.Add_Product.resources
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\obj\Debug\NazarethAguileraFinalProjectC968.Form1.resources
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\obj\Debug\NazarethAguileraFinalProjectC968.Modify_Part.resources
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\obj\Debug\NazarethAguileraFinalProjectC968.Modify_Product.resources
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\obj\Debug\NazarethAguileraFinalProjectC968.Properties.Resources.resources
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\obj\Debug\NazarethAguileraFinalProjectC968V2.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\obj\Debug\NazarethAguileraFinalProjectC968V2.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\obj\Debug\NazarethAguileraFinalProjectC968.exe
+C:\Users\nazar\Desktop\coding projects\C# Programming Projects\NazarethAguileraFinalProjectC968 - V2\obj\Debug\NazarethAguileraFinalProjectC968.pdb
